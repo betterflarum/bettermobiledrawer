@@ -9,10 +9,11 @@ A Flarum extension, Make the mobile drawer look better. Develop with love by BF 
 - Round corner some items (bonus)
 
 And what else? It's your turn to explore!
-![Drawer design](https://github.com/betterflarum/bettermobiledrawer/assets/143252203/3416674c-68bb-4493-bea5-0cea39f5c7a8)
 
+![Drawer design](https://github.com/betterflarum/bettermobiledrawer/assets/143252203/a7ba63a6-5f40-41e3-8e73-f3983897fabe)
 
-![Support for Dark theme](https://github.com/betterflarum/bettermobiledrawer/assets/143252203/74ca7903-06eb-46b8-abea-8a3667d2960a)
+![Support for Dark theme](https://github.com/betterflarum/bettermobiledrawer/assets/143252203/b8db35ed-963b-457f-86d6-05ec23faaf51)
+
 
 ## Installation
 
