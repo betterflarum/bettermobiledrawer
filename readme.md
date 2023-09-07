@@ -3,7 +3,7 @@
 A Flarum extension, Make the mobile drawer look better. Develop with love by BF <3
 
 ## What Better?
-- Refresh the forum logo so it's centered (like a drawer for mobile apps)
+- Refresh the forum logo so it's centered, like a drawer for mobile apps (Require a square logo)
 - Account options button with new design
 - Refresh the position of items in the drawer (bonus)
 - Round corner some items (bonus)
