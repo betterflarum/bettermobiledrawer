@@ -1,0 +1,41 @@
+#drawer.App-drawer .Header-logo {
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+	max-height: 60px !important;
+}
+#drawer.App-drawer .Header-title {
+    text-align: center;
+    padding: 35px 0 35px !important;
+    background: #ebebeb;
+}
+#drawer.App-drawer .FormControl, .Search-input input {
+    width: 100%;
+    text-align: left;
+    border-radius: 30px;
+}
+#drawer.App-drawer .Header-controls {
+    flex-direction: column-reverse;
+    display: flex;
+}
+#drawer.App-drawer .SessionDropdown .Dropdown-toggle .Avatar {
+    margin: -8px 5px -10px -5px;
+    --size: 40px;
+}
+#drawer.App-drawer .SessionDropdown .Dropdown-toggle {
+    background: #efefef;
+    height: 60px;
+}
+#drawer.App-drawer .drawer-backdrop {
+    opacity: 1 !important;
+    filter: blur(60px);
+}
+@media @phone {
+.open.Dropdown .Dropdown-menu {
+    margin: 25px 10px !important;
+    border-radius: 10px !important;
+    padding: 8px !important;
+    box-shadow: 0 0 0 1px #dee1e3 inset;
+} }
+.App-drawer {
+    transition: transform .1s !important;
+}
