@@ -21,7 +21,7 @@
             "title": "Better Mobile Drawer",
             "category": "theme",
             "icon": {
-                "name": "fas fa-wand-magic-sparkles",
+                "name": "fas fa-rectangle-list",
                 "backgroundColor": "#0078d4",
                 "color": "#FFF"
             }
