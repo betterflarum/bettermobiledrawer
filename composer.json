@@ -16,6 +16,13 @@
     "require": {
         "flarum/core": "*"
     },
+    "authors": [
+        {
+            "name": "BetterFlarum",
+            "email": "vnpedl@gmail.com",
+            "role": "Developer"
+        }
+    ],
     "extra": {
         "flarum-extension": {
             "title": "Better Mobile Drawer",
