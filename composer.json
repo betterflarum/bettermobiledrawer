@@ -14,7 +14,7 @@
         "source": "https://github.com/betterflarum/bettermobiledrawer"
     },
     "require": {
-        "flarum/core": "*"
+        "flarum/core": "^1.8.1"
     },
     "authors": [
         {
